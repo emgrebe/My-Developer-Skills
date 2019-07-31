@@ -27,6 +27,7 @@ button {
 #text {
     color: #FFA93A;
     font-size: 14px;
+    margin-right: 25px;
 }
 
 #skills {
@@ -43,7 +44,7 @@ button {
 }
 
 #empty-box {
-    margin-right: 20px;
+    margin-right: 15px;
     width: 200px;
 }
 
