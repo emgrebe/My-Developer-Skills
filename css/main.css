@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Helvetica;
+}
+
+span {
+    background-color: #E16666;
+    color: white;
+    font-size: 12px;
+    padding: 5px 10px 5px 10px;
+
+}
+
+button {
+    color: #92C57C;
+    height: 20px;
+}
+
+#text {
+    color: #FFA93A;
+    font-size: 14px;
+}
+
+#skills {
+    background-color: #92C47D;
+    color: white;
+    height: 30px;
+    align-items: center;
+    padding: 6px 60px 6px 60px;
+}
+
+#empty-box, #add {
+    border: 2px solid #92C57C;
+    height: 30px;
+}
+
+#empty-box {
+    margin-right: 20px;
+    width: 200px;
+}
+
+span, #text {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+span {
+    margin-right: 20px;
+}
+
+#skills, #text {
+    font-weight: 500;
+}
