@@ -11,12 +11,11 @@ body {
     font-family: Helvetica;
 }
 
-span {
+ span {
     background-color: #E16666;
     color: white;
-    font-size: 12px;
     padding: 5px 10px 5px 10px;
-
+    margin-right: 20px;
 }
 
 button {
@@ -24,9 +23,8 @@ button {
     height: 20px;
 }
 
-#text {
+ #text {
     color: #FFA93A;
-    font-size: 14px;
     margin-right: 25px;
 }
 
@@ -34,14 +32,13 @@ button {
     background-color: #92C47D;
     color: white;
     height: 30px;
-    align-items: center;
     padding: 6px 60px 6px 60px;
 }
 
-#empty-box, #add {
+ #empty-box, #add {
     border: 2px solid #92C57C;
     height: 30px;
-}
+} 
 
 #empty-box {
     margin-right: 15px;
@@ -54,10 +51,6 @@ span, #text {
     font-size: 14px;
 }
 
-span {
-    margin-right: 20px;
-}
-
 #skills, #text {
     font-weight: 500;
-}
+} 
